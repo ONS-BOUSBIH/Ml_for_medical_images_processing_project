@@ -6,8 +6,8 @@ Coronary artery disease (CAD) is a leading cause of death worldwide, often resul
 This project presents a **machine learning–based pipeline** for automated coronary artery segmentation and **tree graph representation** of the artery structure, enabling faster, reproducible, and advanced vessel analysis.
 
 ## Project Goals
-1. **Automated Segmentation** – Extract coronary arteries from CTA images using deep learning.
-2. **Tree Graph Construction** – Convert segmentation masks into a structured graph for quantitative analysis.
+1. **Task 1: Automated Segmentation** – Extract coronary arteries from CTA images using deep learning.
+2. **Task2: Tree Graph Construction** – Convert segmentation masks into a structured graph for quantitative analysis.
 
 ## Features
 - Fully automated pipeline with minimal human intervention.
