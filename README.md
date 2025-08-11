@@ -15,16 +15,3 @@ This project presents a **machine learning–based pipeline** for automated coro
 - Extraction of vessel metrics (branch depth, length, etc.).
 - Detection of incomplete or irregular artery structures.
 
-## Installation
-```bash
-# Clone this repository
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
-
-# (Optional) Create a virtual environment
-python -m venv venv
-source venv/bin/activate   # Linux/Mac
-venv\Scripts\activate      # Windows
-
-# Install dependencies
-pip install -r requirements.txt
