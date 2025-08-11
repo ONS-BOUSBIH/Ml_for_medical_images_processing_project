@@ -1,4 +1,4 @@
-# Machine Learning for Medical Images Project:Coronary Artery Segmentation and Tree Graph Representation
+# Machine Learning for Medical Images Project: Coronary Artery Segmentation and Tree Graph Representation
 
 ## Overview
 Coronary artery disease (CAD) is a leading cause of death worldwide, often resulting from the narrowing (stenosis) of arteries due to atherosclerotic plaque buildup. Accurate vessel segmentation from computed tomography angiography (CTA) scans is essential for diagnosis, but manual annotation is time-consuming and prone to variability.
